@@ -2,7 +2,7 @@
 Este repositório contém um projeto de redes desenvolvido no **Cisco Packet Tracer**.
 
 ## Como abrir
-1. Baixe o arquivo ´meu_projeto.pkt´
+1. Baixe o arquivo ´primeiro-projeto-cisco.pkt´
 2. Abra no **Cisco Packet Tracer** (versão 8.2 ou superior).
 
 ## Topologia
